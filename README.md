@@ -13,6 +13,7 @@ Nested loops
 
 ==== HOW TO RUN ====  
 Run interpreter.py on the terminal with the text file name as an argument  
-python interpreter.py file.txt  
+EXAMPLE: python interpreter.py lists.txt
+This will run a test case for list.
   
 If you want to add another text file please put it in test_cases folder.  
