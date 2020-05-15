@@ -1,5 +1,6 @@
 # YAPL-Project-using-python-PLY
-I made the basics of my own coding language using python's library PLY as part of my Automata course project.
+I made the basics of my own coding language using python's library PLY as part of my Automata course project.  
+It implements python's PLY library from where we use ply.lex for tokenizing and ply.yacc for parsing.
 
 ==== FUNCTIONS ====  
 Declare variables: int, string, bool, char, double. Example: int a = 40;  
