@@ -1,0 +1,10 @@
+list a = [1,2,3,4,5,6];
+list b = [];
+print(b);
+print(a.slice(0,2));
+b.push("Get Ready!");
+b.push("Done!");
+print(b.index(1));
+string c = "Well " + b.pop(1);
+print(c);
+print(a[7]);

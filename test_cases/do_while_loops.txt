@@ -1,0 +1,13 @@
+int i = 0;
+DO {
+int j = 0;
+DO {
+int k = 0;
+DO {
+print("(", i, ",", j, ",", k, ")");
+k++;
+} WHILE (k < 2);
+j++;
+} WHILE (j < 2);
+i++;
+} WHILE (i < 2);

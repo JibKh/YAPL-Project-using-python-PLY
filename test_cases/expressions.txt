@@ -1,0 +1,14 @@
+string mystring = ("theory" + " of ") + "automata";
+int a = 1;
+int b = 4;
+b++;
+print(mystring);
+double c = (1.5 + 0.5 + 2);
+double determinant = b ^ 2 - 4 * a * c;
+double quadratic_root = (-b + determinant^(1/2)) / (2.0 * a);
+print(quadratic_root);
+
+bool d = False;
+print(NOT True == (NOT (NOT d)) AND (True != 0));
+print(4 + "A");
+print("Hi");
